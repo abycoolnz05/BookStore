@@ -49,3 +49,9 @@ $ npm run reset
 ```
 
 Once you are done, deploy both the client and server using your preferred hosting provider (such as Netlify, Vercel, Render, AWS, Heroku, etc). Make sure that your deployed frontend client can interact seamlessly with the deployed server.
+
+To start the front end
+
+- navigate to src/clent directory
+- npm i 
+- npm run serve 
